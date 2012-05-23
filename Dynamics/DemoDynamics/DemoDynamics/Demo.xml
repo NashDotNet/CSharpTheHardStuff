@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<response>
+  <movies>
+    <movie name="Star Wars" rating ="PG" />
+    <movie name="Indiana Jones" rating ="PG" />
+    <movie name="The Matrix" rating ="R" />
+  </movies>
+</response>
